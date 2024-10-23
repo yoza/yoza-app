@@ -3,7 +3,7 @@
     "name": "yoza-app",
     "slug": "yoza-app",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/images/tortiki.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
